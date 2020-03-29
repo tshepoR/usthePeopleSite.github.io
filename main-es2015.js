@@ -97,7 +97,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<br/>\n<br/>\n<br/>\n<br/>\n\n\n<h3>Our Documents</h3>\n\n<br/>\n\n<ul class=\"list-group animated fadeInLeftBig\">\n    <li class=\"list-group-item pointer\">CONSTITUTION OF US THE PEOPLE <i (click)=\"downloadFile('CONSTITUTION OF US THE PEOPLE.pdf')\" class=\"fa fa-download adjustIcons icon-color-gold pointer\" aria-hidden=\"true\">\n     </i></li>\n     <li class=\"list-group-item pointer\">CONSTITUTION OF US THE STUDENTS <i (click)=\"downloadFile('CONSTITUTION OF US THE STUDENTS.pdf')\" class=\"fa fa-download adjustIcons icon-color-gold pointer\" aria-hidden=\"true\">\n      </i></li>\n      <!-- <li class=\"list-group-item pointer\">CONSTITUTION OF US THE WORKERS <i (click)=\"downloadFile('CONSTITUTION OF US THE WORKERS.pdf')\" class=\"fa fa-download adjustIcons icon-color-gold pointer\" aria-hidden=\"true\">\n        </i></li> -->\n        <li class=\"list-group-item pointer\">FOUNDING MANIFESTO OF US THE PEOPLE\n          <i (click)=\"downloadFile('FOUNDING MANIFESTO OF US THE PEOPLE.pdf')\" class=\"fa fa-download adjustIcons icon-color-gold pointer \"aria-hidden=\"true\">\n          </i></li>\n    \n  </ul>");
+/* harmony default export */ __webpack_exports__["default"] = ("<br/>\n<br/>\n<br/>\n<br/>\n\n\n<h3>Our Documents</h3>\n\n<br/>\n\n<ul class=\"list-group animated fadeInLeftBig\">\n    <li class=\"list-group-item pointer\">CONSTITUTION OF US THE PEOPLE <i (click)=\"downloadFile('CONSTITUTION OF US THE PEOPLE.pdf')\" class=\"fa fa-download adjustIcons icon-color-gold pointer\" aria-hidden=\"true\">\n     </i></li>\n     <li class=\"list-group-item pointer\">CONSTITUTION OF US THE STUDENTS <i (click)=\"downloadFile('CONSTITUTION OF US THE STUDENTS.pdf')\" class=\"fa fa-download adjustIcons icon-color-gold pointer\" aria-hidden=\"true\">\n      </i></li>\n      <!-- <li class=\"list-group-item pointer\">CONSTITUTION OF US THE WORKERS <i (click)=\"downloadFile('CONSTITUTION OF US THE WORKERS.pdf')\" class=\"fa fa-download adjustIcons icon-color-gold pointer\" aria-hidden=\"true\">\n        </i></li> -->\n        <li class=\"list-group-item pointer\">FOUNDING MANIFESTO OF US THE PEOPLE<i (click)=\"downloadFile('FOUNDING MANIFESTO OF US THE PEOPLE.pdf')\" class=\"fa fa-download adjustIcons icon-color-gold pointer \"aria-hidden=\"true\">\n          </i></li>\n    \n  </ul>");
 
 /***/ }),
 
@@ -110,7 +110,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("\n\n<br>\n<br>\n<br>\n<br>\n<div class=\"container\">\n    <ngx-spinner\nbdColor=\"black\"\nsize=\"medium\"\ncolor=\"#fff\"\ntype=\"ball-scale-multiple\"\n>\n<p style=\"font-size: 20px; margin-top:3px;\" class=\"icon-color-gold animated bounceIn\">UsThePeople</p>\n</ngx-spinner>\n\n    <h4 style=\"font-size: 22px;\" class=\"animated flip\">Us The People</h4>  \n   \n    <br/>\n    <br/>\n    <br/>\n    <video autoplay  width=\"100%\" controls  class=\"animated zoomInRight\">\n        <source src=\"assets\\VID-20200328-WA0018.mp4\" type=\"video/mp4\">\n       \n        Your browser does not support HTML5 video.\n    </video>\n    <br/>\n    <br/>\n    <br/>\n    <img  class=\"animated zoomInRight\" style=\"width:100%;height:400px;\" src=\"assets\\usThePeople.jpeg\"/>\n    <br/>\n    <br/>\n    <br/>\n    <img  class=\"animated flip\" style=\"width:100%;height:400px;\" src=\"assets\\usTheStudents.jpeg\"/>\n    <br/>\n    <br/>\n    <br/>\n\n    <img  class=\"animated flip\" style=\"width:100%;height:400px;\" src=\"assets\\usTheWorkes.jpeg\"/>\n\n    <br/>\n    <br/>\n<!-- <h4>More news! check this video</h4> -->\n     <!-- <video   width=\"500\" controls  class=\"animated zoomInRight\">\n        <source src=\"assets\\VID-20200328-WA0018.mp4\" type=\"video/mp4\">\n       \n        Your browser does not support HTML5 video.\n    </video> \n    <br/>\n    <br/> -->\n    <video   width=\"100%\" controls class=\"animated zoomInRight\">\n        <source src=\"assets\\VID-20200328-WA0019.mp4\" type=\"video/ogg\">\n       \n        Your browser does not support HTML5 video.\n    </video> \n   \n  </div>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("\n\n<br>\n<br>\n<br>\n<br>\n<div class=\"container\">\n    <ngx-spinner\nbdColor=\"black\"\nsize=\"medium\"\ncolor=\"#fff\"\ntype=\"ball-scale-multiple\"\n>\n<p style=\"font-size: 20px; margin-top:3px;\" class=\"icon-color-gold animated bounceIn\">UsThePeople</p>\n</ngx-spinner>\n\n    <h4 style=\"font-size: 22px;\" class=\"animated flip\">Us The People</h4>  \n   \n    <br/>\n    <br/>\n    <br/>\n    <video autoplay  width=\"100%\" controls  class=\"animated flip\">\n        <source src=\"assets\\VID-20200328-WA0018.mp4\" type=\"video/mp4\">\n       \n        Your browser does not support HTML5 video.\n    </video>\n    <br/>\n    <br/>\n    <br/>\n\n    <div class=\"container\">\n  <!-- <h2>Carousel Example</h2> -->\n  <div id=\"myCarousel\" class=\"carousel slide\" data-ride=\"carousel\">\n    <!-- Indicators -->\n    <ol class=\"carousel-indicators\">\n      <li data-target=\"#myCarousel\" data-slide-to=\"0\" class=\"active\"></li>\n      <li data-target=\"#myCarousel\" data-slide-to=\"1\"></li>\n      <li data-target=\"#myCarousel\" data-slide-to=\"2\"></li>\n    </ol>\n\n    <!-- Wrapper for slides -->\n    <div class=\"carousel-inner\">\n\n      <div class=\"item active\">\n       <img  class=\"animated flip\" style=\"width:100%;height:400px;\" src=\"assets\\usThePeople.jpeg\"/>\n        <div class=\"carousel-caption\">\n          <h3>Us the people</h3>\n        </div>\n      </div>\n\n      <div class=\"item\">\n     <img  class=\"animated flip\" style=\"width:100%;height:400px;\" src=\"assets\\usTheStudents.jpeg\"/>\n        <div class=\"carousel-caption\">\n          <h3>Us the students</h3>\n        </div>\n      </div>\n    \n      <div class=\"item\">\n    <img  class=\"animated flip\" style=\"width:100%;height:400px;\" src=\"assets\\usTheWorkes.jpeg\"/>\n        <div class=\"carousel-caption\">\n          <h3>Us the workers</h3>\n        </div>\n      </div>\n  \n    </div>\n\n    <!-- Left and right controls -->\n    <a class=\"left carousel-control\" href=\"#myCarousel\" data-slide=\"prev\">\n      <span class=\"glyphicon glyphicon-chevron-left\"></span>\n      <span class=\"sr-only\">Previous</span>\n    </a>\n    <a class=\"right carousel-control\" href=\"#myCarousel\" data-slide=\"next\">\n      <span class=\"glyphicon glyphicon-chevron-right\"></span>\n      <span class=\"sr-only\">Next</span>\n    </a>\n  </div>\n</div>\n<br/>\n<br/>\n\n    <video   width=\"100%\" controls class=\"animated zoomInRight\">\n        <source src=\"assets\\VID-20200328-WA0019.mp4\" type=\"video/ogg\">\n       \n        Your browser does not support HTML5 video.\n    </video> \n    \n   \n  </div>\n");
 
 /***/ }),
 
@@ -123,7 +123,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<div class=\"container animated fadeInLeft\">\n  \n  <ul class=\"nav nav-tabs\">\n    <li class=\"active\"><a data-toggle=\"tab\" href=\"#home\">Registration <i class=\"fa fa-user\" aria-hidden=\"true\"></i></a></li>\n    <!-- <li><a data-toggle=\"tab\" href=\"#address\">Address</a></li> -->\n    <li><a data-toggle=\"tab\" href=\"#photo\">Photo <i class=\"fa fa-camera\"></i></a></li>\n  </ul>\n\n  <div class=\"tab-content\">\n    <div id=\"home\" class=\"tab-pane fade in active\">\n      <h4>Join us</h4>\n      <form [formGroup]=\"form\">\n          <div class=\"form-group\">\n              <i class=\"fa fa-user icon-color-gold\" aria-hidden=\"true\"></i> <strong><label for=\"firstName\">First name</label></strong>\n            <input  formControlName=\"firstName\"type=\"text\" id=\"firstName\" class=\"form-control textInputLength\" >\n          </div>\n          <div *ngIf=\"firstName.touched && firstName.invalid\" class=\"alert alert-danger\" role=\"alert\">\n           First name is required.\n          </div>\n          <div class=\"form-group\">\n              <i class=\"fa fa-user icon-color-gold\" aria-hidden=\"true\"></i> <strong><label for=\"Surname\">Surname</label></strong>\n            <input  formControlName=\"surName\" type=\"text\" id=\"Surname\" class=\"form-control textInputLength\">\n          </div>\n          <div *ngIf=\"surName.touched && surName.invalid\" class=\"alert alert-danger\" role=\"alert\">\n            Surname is required.\n          </div>\n          <div class=\"form-group\">\n              <i class=\"fa fa-id-card icon-color-gold\" aria-hidden=\"true\"></i> <strong><label for=\"number\">ID number</label></strong>\n            <input maxlength=\"13\" (keyup)=\"validateRSAidnumber(id.value)\" #id formControlName=\"idNumber\" type=\"text\" id=\"number\" class=\"form-control textInputLength\">\n          </div>\n          <div *ngIf=\"idNumber.touched && idNumber.invalid\" class=\"alert alert-danger\" role=\"alert\">\n            <div *ngIf=\"idNumber.errors.required\">\n              Id number is required.\n            </div>\n           </div>\n           <div *ngIf=\"notValidId\" class=\"alert alert-danger\" role=\"alert\">\n            Invalid south african identity number.\n           </div>\n          <div class=\"form-group\">\n              <i class=\"fa fa-user icon-color-gold\" aria-hidden=\"true\"></i> <strong> <label for=\"number\">Gender</label></strong>\n            <input  formControlName=\"gender\" type=\"text\" id=\"number\" class=\"form-control\" disabled>\n          </div>\n          <!-- <div *ngIf=\"surName.touched && surName.invalid\" class=\"alert alert-danger\" role=\"alert\">\n            Surname is required.\n           </div> -->\n          <div class=\"form-group\">\n              <i class=\"fa fa-envelope icon-color-gold\" aria-hidden=\"true\"></i> <strong><label for=\"number\">Email</label></strong>\n            <input formControlName=\"emailAdddress\"  type=\"text\" id=\"number\" class=\"form-control\">\n          </div>\n          <div *ngIf=\"email.touched && email.invalid\" class=\"alert alert-danger\" role=\"alert\">\n            <div *ngIf=\"email.errors.required\">\n              Email is required.\n            </div>\n            <div *ngIf=\"email.errors.email\">\n              Invalid email address.\n             </div>\n           </div>\n          <div class=\"form-group\">\n              <i class=\"fa fa-phone-square icon-color-gold\" aria-hidden=\"true\"></i> <strong><label for=\"number\">Cell</label></strong>\n            <input maxlength=\"10\"  formControlName=\"cell\" type=\"text\" id=\"number\" class=\"form-control\" >\n          </div>\n          <div *ngIf=\"cell.touched && cell.invalid\" class=\"alert alert-danger\" role=\"alert\">\n            Cell number is required.\n           </div>\n          <div class=\"form-group\">\n              <i class=\"fa fa-briefcase icon-color-gold\" aria-hidden=\"true\"></i><strong><label for=\"disabledSelect\">Occupation</label></strong>\n            <select id=\"disabledSelect\" class=\"form-control\" (change) =\"occupationChange(occ)\" #occ  formControlName=\"occupationId\" >\n              <option value=\"\">Select...</option>\n             <option *ngFor=\"let item of occupations\" [value]=\"item.occupation_Id\">{{item.name}}</option>\n            </select>\n          </div>\n          <!-- <div class=\"form-group\">\n              <i class=\"fa fa-building icon-color-gold\"  aria-hidden=\"true\"></i><strong><label for=\"number\">Occupation</label></strong>\n            <input  type=\"text\" id=\"number\" class=\"form-control\" >\n          </div> -->\n          <div *ngIf=\"isStudent\" class=\"form-group\">\n              <i class=\"fa fa-building icon-color-gold\"  aria-hidden=\"true\"></i><strong><label for=\"number\">Institution</label></strong>\n            <!-- <input  type=\"text\" id=\"number\" class=\"form-control\" placeholder=\"search.....\" ><i class=\"fa fa-search searchIcon\" aria-hidden=\"true\"></i> -->\n            <select class=\"form-control\"  formControlName=\"institutionId\" >\n              <option value=\"\">Select institution...</option>\n              <option *ngFor=\"let item of instituions\" [value]=\"item.institution_Id\">{{item.name}}</option>\n              <!-- <option>{{item.name}}</option> -->\n            </select>\n           </div>\n           <br/>\n           <h5>Residential Address</h5>\n\n           <div class=\"form-group\">\n             <i class=\"fa fa-building icon-color-gold\"  aria-hidden=\"true\"></i><strong><label for=\"number\">Province</label></strong>\n             <!-- <input  type=\"text\" id=\"number\" class=\"form-control\" placeholder=\"search.....\" ><i class=\"fa fa-search searchIcon\" aria-hidden=\"true\"></i> -->\n             <select class=\"form-control\"  formControlName=\"province\" (change) =\"getCities($event)\" >\n               <option value=\"\">Select province...</option>\n               <option *ngFor=\"let item of provinces\" [value]=\"item.name\">{{item.name}}</option>\n               <!-- <option>{{item.name}}</option> -->\n             </select>\n              </div>\n\n              <div class=\"form-group\">\n                <i class=\"fa fa-building icon-color-gold\"  aria-hidden=\"true\"></i><strong><label for=\"number\">Municipality</label></strong>\n                <!-- <input  type=\"text\" id=\"number\" class=\"form-control\" placeholder=\"search.....\" ><i class=\"fa fa-search searchIcon\" aria-hidden=\"true\"></i> -->\n                <select class=\"form-control\" formControlName=\"city\" >\n                  <option value=\"\">Select Municipality...</option>\n                  <option *ngFor=\"let item of cities\" [value]=\"item.name\">{{item.name}}</option>\n                  <!-- <option>{{item.name}}</option> -->\n                </select>\n                 </div>\n\n              <div class=\"form-group\">\n                <i class=\"fa fa-building  icon-color-gold\" aria-hidden=\"true\"></i> <strong><label for=\"number\">Street Name</label></strong>\n              <input maxlength=\"10\"  formControlName=\"street\" type=\"text\" id=\"number\" class=\"form-control\" >\n            </div>\n            <div *ngIf=\"street.touched && street.invalid\" class=\"alert alert-danger\" role=\"alert\">\n              <div *ngIf=\"street.errors.required\">\n                Street Name is required.\n              </div>\n             </div>\n\n             <!-- <div class=\"form-group\">\n              <i class=\"fa fa-building  icon-color-gold\" aria-hidden=\"true\"></i> <strong><label for=\"number\">Code</label></strong>\n            <input maxlength=\"10\"  formControlName=\"city\" type=\"text\" id=\"number\" class=\"form-control\" >\n          </div>\n          <div *ngIf=\"city.touched && code.invalid\" class=\"alert alert-danger\" role=\"alert\">\n            <div *ngIf=\"city.errors.required\">\n              Code is required.\n            </div>\n           </div> -->\n\n            <div class=\"form-group\">\n              <i class=\"fa fa-building  icon-color-gold\" aria-hidden=\"true\"></i> <strong><label for=\"number\">Postal Code</label></strong>\n            <input maxlength=\"10\"  formControlName=\"code\" type=\"text\" id=\"number\" class=\"form-control\" >\n          </div>\n          <div *ngIf=\"code.touched && code.invalid\" class=\"alert alert-danger\" role=\"alert\">\n            <div *ngIf=\"code.errors.required\">\n              Postal Code is required.\n            </div>\n           </div>\n\n          <div class=\"form-group\">\n         <label for=\"chk\">\n          <i (click)=\"agreeToTermsAndCondition()\" *ngIf=\"!isTCsConfirmed\"class=\"fa fa-square-o icon-color-gold pointer\" aria-hidden=\"true\"></i>\n          <i (click)=\"agreeToTermsAndCondition()\" *ngIf=\"isTCsConfirmed\" class=\"fa fa-check-square pointer icon-color-gold\" aria-hidden=\"true\"></i>\n                      I solemnly declare that I will abide by the principles of Us the People and radical stance of statelessness and equal freedom of all. \n      \n      I voluntarily join Us the People without any motive of personal advancement and I will participate in activities of the organisation consistently, including self intellectual development and educating society.\n      \n      I further declare to abide by the principle of democracy and collectivism, as embodied in the Founding Manifesto of Us the People.\n               \n              </label>\n  \n          </div>\n        \n      \n          <button (click)=\"submitForm()\" [disabled]=\"!form.valid\"style=\"background-color: #ab0313;\"  class=\"btn btn-danger \">Submit <i class=\"fa fa-floppy-o\" aria-hidden=\"true\"></i></button>\n     \n      </form>\n    </div>\n    <div id=\"address\" class=\"tab-pane fade\">\n      <!-- <app-address (change)=\"handleAddressCordinates($event)\"></app-address> -->\n    </div>\n    <div id=\"photo\" class=\"tab-pane fade\">\n      <br/>\n      <div class=\"form-group\">\n        <label for=\"file\">Upload Photo of your ID book <i class=\"fa fa-camera\"></i></label>\n        <input type=\"file\"\n        id=\"file\"\n        (change)=\"previewFile($event.target)\">\n </div>\n <div>\n     <img src={{imageUrl}} class=\"img-thumbnail\" alt=\"No-photo\">\n </div>\n    </div>\n  \n  </div>\n<br/>\n  <div *ngIf=\"showSuccess\" class=\"alert alert-success\" role=\"alert\">\n    {{successMessage}}\n  </div>\n  <div *ngIf=\"showFailure\" class=\"alert alert-danger\" role=\"alert\">\n    {{errorMessage}}\n  </div>\n\n</div>\n<ngx-spinner\n  bdColor=\"rgba(51,51,51,0.8)\"\n  size=\"medium\"\n  color=\"#fff\"\n  type=\"ball-scale-multiple\"\n>\n  <p style=\"font-size: 20px; color: white\"></p>\n</ngx-spinner>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<div class=\"container animated fadeInLeft\">\n  \n  <ul class=\"nav nav-tabs\">\n    <li class=\"active\"><a data-toggle=\"tab\" href=\"#home\">Registration <i class=\"fa fa-user\" aria-hidden=\"true\"></i></a></li>\n    <!-- <li><a data-toggle=\"tab\" href=\"#address\">Address</a></li> -->\n    <li><a data-toggle=\"tab\" href=\"#photo\">Photo <i class=\"fa fa-camera\"></i></a></li>\n  </ul>\n\n  <div class=\"tab-content\">\n    <div id=\"home\" class=\"tab-pane fade in active\">\n      <h4>Join us</h4>\n      <form [formGroup]=\"form\">\n          <div class=\"form-group\">\n              <i class=\"fa fa-user icon-color-gold\" aria-hidden=\"true\"></i> <strong><label for=\"firstName\">First name</label></strong>\n            <input  formControlName=\"firstName\"type=\"text\" id=\"firstName\" class=\"form-control textInputLength\" >\n          </div>\n          <div *ngIf=\"firstName.touched && firstName.invalid\" class=\"alert alert-danger\" role=\"alert\">\n           First name is required.\n          </div>\n          <div class=\"form-group\">\n              <i class=\"fa fa-user icon-color-gold\" aria-hidden=\"true\"></i> <strong><label for=\"Surname\">Surname</label></strong>\n            <input  formControlName=\"surName\" type=\"text\" id=\"Surname\" class=\"form-control textInputLength\">\n          </div>\n          <div *ngIf=\"surName.touched && surName.invalid\" class=\"alert alert-danger\" role=\"alert\">\n            Surname is required.\n          </div>\n          <div class=\"form-group\">\n              <i class=\"fa fa-id-card icon-color-gold\" aria-hidden=\"true\"></i> <strong><label for=\"number\">ID number</label></strong>\n            <input maxlength=\"13\" (keyup)=\"validateRSAidnumber(id.value)\" #id formControlName=\"idNumber\" type=\"text\" id=\"number\" class=\"form-control textInputLength\">\n          </div>\n          <div *ngIf=\"idNumber.touched && idNumber.invalid\" class=\"alert alert-danger\" role=\"alert\">\n            <div *ngIf=\"idNumber.errors.required\">\n              Id number is required.\n            </div>\n           </div>\n           <div *ngIf=\"notValidId\" class=\"alert alert-danger\" role=\"alert\">\n            Invalid south african identity number.\n           </div>\n          <div class=\"form-group\">\n              <i class=\"fa fa-user icon-color-gold\" aria-hidden=\"true\"></i> <strong> <label for=\"number\">Gender</label></strong>\n            <input  formControlName=\"gender\" type=\"text\" id=\"number\" class=\"form-control\" disabled>\n          </div>\n          <!-- <div *ngIf=\"surName.touched && surName.invalid\" class=\"alert alert-danger\" role=\"alert\">\n            Surname is required.\n           </div> -->\n          <div class=\"form-group\">\n              <i class=\"fa fa-envelope icon-color-gold\" aria-hidden=\"true\"></i> <strong><label for=\"number\">Email</label></strong>\n            <input formControlName=\"emailAdddress\"  type=\"text\" id=\"number\" class=\"form-control\">\n          </div>\n          <div *ngIf=\"email.touched && email.invalid\" class=\"alert alert-danger\" role=\"alert\">\n            <div *ngIf=\"email.errors.required\">\n              Email is required.\n            </div>\n            <div *ngIf=\"email.errors.email\">\n              Invalid email address.\n             </div>\n           </div>\n          <div class=\"form-group\">\n              <i class=\"fa fa-phone-square icon-color-gold\" aria-hidden=\"true\"></i> <strong><label for=\"number\">Cell</label></strong>\n            <input maxlength=\"10\"  formControlName=\"cell\" type=\"text\" id=\"number\" class=\"form-control\" >\n          </div>\n          <div *ngIf=\"cell.touched && cell.invalid\" class=\"alert alert-danger\" role=\"alert\">\n            Cell number is required.\n           </div>\n          <div class=\"form-group\">\n              <i class=\"fa fa-briefcase icon-color-gold\" aria-hidden=\"true\"></i><strong><label for=\"disabledSelect\">Occupation</label></strong>\n            <select id=\"disabledSelect\" class=\"form-control\" (change) =\"occupationChange(occ)\" #occ  formControlName=\"occupationId\" >\n              <option value=\"\">Select...</option>\n             <option *ngFor=\"let item of occupations\" [value]=\"item.occupation_Id\">{{item.name}}</option>\n            </select>\n          </div>\n\n           <br/>\n           <h5>Residential Address</h5>\n\n           <div class=\"form-group\">\n             <i class=\"fa fa-building icon-color-gold\"  aria-hidden=\"true\"></i><strong><label for=\"number\">Province</label></strong>\n             <!-- <input  type=\"text\" id=\"number\" class=\"form-control\" placeholder=\"search.....\" ><i class=\"fa fa-search searchIcon\" aria-hidden=\"true\"></i> -->\n             <select class=\"form-control\"  formControlName=\"province\" (change) =\"getCities($event)\" >\n               <option value=\"\">Select province...</option>\n               <option *ngFor=\"let item of provinces\" [value]=\"item.name\">{{item.name}}</option>\n               <!-- <option>{{item.name}}</option> -->\n             </select>\n              </div>\n\n              <div class=\"form-group\">\n                <i class=\"fa fa-building icon-color-gold\"  aria-hidden=\"true\"></i><strong><label for=\"number\">Municipality</label></strong>\n                <!-- <input  type=\"text\" id=\"number\" class=\"form-control\" placeholder=\"search.....\" ><i class=\"fa fa-search searchIcon\" aria-hidden=\"true\"></i> -->\n                <select class=\"form-control\" formControlName=\"city\" >\n                  <option value=\"\">Select Municipality...</option>\n                  <option *ngFor=\"let item of cities\" [value]=\"item.name\">{{item.name}}</option>\n                  <!-- <option>{{item.name}}</option> -->\n                </select>\n                 </div>\n                 \n                <div class=\"form-group\" *ngIf=\"isStudent\" >\n                <i class=\"fa fa-building icon-color-gold\"  aria-hidden=\"true\"></i><strong><label for=\"number\">University/Colleage</label></strong>\n                <!-- <input  type=\"text\" id=\"number\" class=\"form-control\" placeholder=\"search.....\" ><i class=\"fa fa-search searchIcon\" aria-hidden=\"true\"></i> -->\n                <select class=\"form-control\" formControlName=\"institutionType\"  (change) =\"intializeProvices($event)\">\n                  <option value=\"\">Select...</option>\n                  <option value=\"University\">University </option>\n                  <option value=\"Colleage\">Colleage </option>\n                  <!-- <option>{{item.name}}</option> -->\n                </select>\n                 </div>\n\n                <div class=\"form-group\" *ngIf=\"isStudent\" >\n                <i class=\"fa fa-building icon-color-gold\"  aria-hidden=\"true\"></i><strong><label for=\"number\">Institution Province</label></strong>\n                <!-- <input  type=\"text\" id=\"number\" class=\"form-control\" placeholder=\"search.....\" ><i class=\"fa fa-search searchIcon\" aria-hidden=\"true\"></i> -->\n                <select class=\"form-control\" formControlName=\"institutionProvince\"  (change) =\"getUniversities($event)\" >\n                  <option value=\"\">Select province...</option>\n                  <option *ngFor=\"let item of studentProvices\" [value]=\"item.name\">{{item.name}}</option>\n                  <!-- <option>{{item.name}}</option> -->\n                </select>\n                 </div>\n\n              <div class=\"form-group\" *ngIf=\"isStudent\" >\n                <i class=\"fa fa-building icon-color-gold\"  aria-hidden=\"true\"></i><strong><label for=\"number\">Institution</label></strong>\n                <!-- <input  type=\"text\" id=\"number\" class=\"form-control\" placeholder=\"search.....\" ><i class=\"fa fa-search searchIcon\" aria-hidden=\"true\"></i> -->\n                <select class=\"form-control\" formControlName=\"institution\" >\n                  <option value=\"\">Select...</option>\n                  <option *ngFor=\"let item of universities\" [value]=\"item.name\">{{item.name}}</option>\n                  <!-- <option>{{item.name}}</option> -->\n                </select>\n                 </div>\n\n\n              <div class=\"form-group\">\n                <i class=\"fa fa-building  icon-color-gold\" aria-hidden=\"true\"></i> <strong><label for=\"number\">Address Name</label></strong>\n              <input maxlength=\"10\"  formControlName=\"street\" type=\"text\" id=\"number\" class=\"form-control\" >\n            </div>\n            <div *ngIf=\"street.touched && street.invalid\" class=\"alert alert-danger\" role=\"alert\">\n              <div *ngIf=\"street.errors.required\">\n                Address Name is required.\n              </div>\n             </div>\n\n             <!-- <div class=\"form-group\">\n              <i class=\"fa fa-building  icon-color-gold\" aria-hidden=\"true\"></i> <strong><label for=\"number\">Code</label></strong>\n            <input maxlength=\"10\"  formControlName=\"city\" type=\"text\" id=\"number\" class=\"form-control\" >\n          </div>\n          <div *ngIf=\"city.touched && code.invalid\" class=\"alert alert-danger\" role=\"alert\">\n            <div *ngIf=\"city.errors.required\">\n              Code is required.\n            </div>\n           </div> -->\n\n            <div class=\"form-group\">\n              <i class=\"fa fa-building  icon-color-gold\" aria-hidden=\"true\"></i> <strong><label for=\"number\">Postal Code</label></strong>\n            <input maxlength=\"10\"  formControlName=\"code\" type=\"text\" id=\"number\" class=\"form-control\" >\n          </div>\n          <div *ngIf=\"code.touched && code.invalid\" class=\"alert alert-danger\" role=\"alert\">\n            <div *ngIf=\"code.errors.required\">\n              Postal Code is required.\n            </div>\n           </div>\n\n          <div class=\"form-group\">\n         <label for=\"chk\">\n          <i (click)=\"agreeToTermsAndCondition()\" *ngIf=\"!isTCsConfirmed\"class=\"fa fa-square-o icon-color-gold pointer\" aria-hidden=\"true\"></i>\n          <i (click)=\"agreeToTermsAndCondition()\" *ngIf=\"isTCsConfirmed\" class=\"fa fa-check-square pointer icon-color-gold\" aria-hidden=\"true\"></i>\n                      I solemnly declare that I will abide by the principles of Us the People and radical stance of statelessness and equal freedom of all. \n      \n      I voluntarily join Us the People without any motive of personal advancement and I will participate in activities of the organisation consistently, including self intellectual development and educating society.\n      \n      I further declare to abide by the principle of democracy and collectivism, as embodied in the Founding Manifesto of Us the People.\n               \n              </label>\n  \n          </div>\n        \n      \n          <button (click)=\"submitForm()\" [disabled]=\"!form.valid\"style=\"background-color: #ab0313;\"  class=\"btn btn-danger \">Submit <i class=\"fa fa-floppy-o\" aria-hidden=\"true\"></i></button>\n     \n      </form>\n    </div>\n    <div id=\"address\" class=\"tab-pane fade\">\n      <!-- <app-address (change)=\"handleAddressCordinates($event)\"></app-address> -->\n    </div>\n    <div id=\"photo\" class=\"tab-pane fade\">\n      <br/>\n      <div class=\"form-group\">\n        <label for=\"file\">Upload Photo of your ID book <i class=\"fa fa-camera\"></i></label>\n        <input type=\"file\"\n        id=\"file\"\n        (change)=\"previewFile($event.target)\">\n </div>\n <div>\n     <img src={{imageUrl}} class=\"img-thumbnail\" alt=\"No-photo\">\n </div>\n    </div>\n  \n  </div>\n<br/>\n  <div *ngIf=\"showSuccess\" class=\"alert alert-success\" role=\"alert\">\n    {{successMessage}}\n  </div>\n  <div *ngIf=\"showFailure\" class=\"alert alert-danger\" role=\"alert\">\n    {{errorMessage}}\n  </div>\n\n</div>\n<ngx-spinner\n  bdColor=\"rgba(51,51,51,0.8)\"\n  size=\"medium\"\n  color=\"#fff\"\n  type=\"ball-scale-multiple\"\n>\n  <p style=\"font-size: 20px; color: white\"></p>\n</ngx-spinner>\n");
 
 /***/ }),
 
@@ -1099,10 +1099,10 @@ let HomeComponent = class HomeComponent {
         this.spinner = spinner;
     }
     ngOnInit() {
-        // this.spinner.show();
-        // setTimeout(()=>{
-        //  this.spinner.hide();
-        // },1000)
+        this.spinner.show();
+        setTimeout(() => {
+            this.spinner.hide();
+        }, 2000);
         // var total =0;
         // for(var j=0;j<10;j++){
         //   for(var i=0;i<3;i++){
@@ -1192,6 +1192,9 @@ let JoinUsFormComponent = class JoinUsFormComponent {
             street: new _angular_forms__WEBPACK_IMPORTED_MODULE_2__["FormControl"]('', _angular_forms__WEBPACK_IMPORTED_MODULE_2__["Validators"].required),
             city: new _angular_forms__WEBPACK_IMPORTED_MODULE_2__["FormControl"]('', _angular_forms__WEBPACK_IMPORTED_MODULE_2__["Validators"].required),
             province: new _angular_forms__WEBPACK_IMPORTED_MODULE_2__["FormControl"]('', _angular_forms__WEBPACK_IMPORTED_MODULE_2__["Validators"].required),
+            institutionProvince: new _angular_forms__WEBPACK_IMPORTED_MODULE_2__["FormControl"](''),
+            institution: new _angular_forms__WEBPACK_IMPORTED_MODULE_2__["FormControl"](''),
+            institutionType: new _angular_forms__WEBPACK_IMPORTED_MODULE_2__["FormControl"]('')
         });
         this.provinces = [
             { id: 1, name: 'Eastern Cape', cities: [
@@ -1480,9 +1483,26 @@ let JoinUsFormComponent = class JoinUsFormComponent {
     get code() { return this.form.get('code'); }
     get street() { return this.form.get('street'); }
     get city() { return this.form.get('city'); }
+    get institutionProvince() { return this.form.get('institutionProvince'); }
     get province() { return this.form.get('province'); }
+    get institution() { return this.form.get('institution'); }
+    get institutionType() { return this.form.get('institutionType'); }
     ngOnInit() {
         this.spinner.show('Please wait.....');
+        this.occupations = [
+            {
+                occupation_Id: 1,
+                name: 'Self Employed'
+            },
+            {
+                occupation_Id: 2,
+                name: 'Employed'
+            },
+            {
+                occupation_Id: 3,
+                name: 'Student'
+            }
+        ];
         this.httpService.getInstitutions().subscribe((res) => {
             if (res.succeeded) {
                 this.instituions = res.results;
@@ -1505,8 +1525,317 @@ let JoinUsFormComponent = class JoinUsFormComponent {
             this.spinner.hide();
         });
     }
+    intializeProvices(value) {
+        debugger;
+        this.institutionProvince.reset('select');
+        this.institution.reset();
+        this.studentProvices = [];
+        this.universities = [];
+        this.institutionProvince.setv;
+        if (!value.target.value) {
+            return;
+        }
+        this.studentProvices = [
+            { name: 'Eastern Cape', universities: [
+                    { name: 'Nelson Mandela University 2nd Avenue' },
+                    { name: 'Nelson Mandela University South Campus' },
+                    { name: 'WSU Buffalo City Campus' },
+                    { name: 'University of Fort Hare East London' },
+                    { name: 'WSU Queenstown' },
+                    { name: 'WSU Ibika (Butterworth)' },
+                    { name: 'WSU Mthatha' },
+                    { name: 'University of Fort Hare Alice' },
+                ],
+                Colleges: [
+                    { name: 'Buffalo City TVET College- EastLondon Campus' },
+                    { name: 'Buffalo City TVET College- St Marks Campus' },
+                    { name: 'King Sabatha Dalindyebo TVET Engcobo Campus' },
+                    { name: 'King Sabatha Dalindyebo TVET Libode Campus' },
+                    { name: 'King Sabatha Dalindyebo TVET Mapozi Campus' },
+                    { name: 'King Sabatha Dalindyebo TVET Zimbane Campus' },
+                    { name: 'King Sabatha Dalindyebo TVET Ntabozuko Campus' },
+                    { name: 'King Sabatha Dalindyebo TVET Mthatha Campus' },
+                    { name: 'King Sabatha Dalindyebo TVET Mngazi Campus' },
+                    { name: 'Ikhala TVET College – Alwal North Campus' },
+                    { name: 'Ikhala TVET College – Ezibeleni Engineering Campus' },
+                    { name: 'Ikhala TVET College – Queen Nonesi Campus' },
+                    { name: 'Ikhala TVET College – Queenstown Campus' },
+                    { name: 'Ikhala TVET College – Sterkspruit' }
+                ]
+            },
+            { name: 'Free State', universities: [
+                    { name: 'Central University Technology Bloemfontein' },
+                    { name: 'Central University Technology Welkom' },
+                    { name: 'University Free State Bloemfontein' },
+                    { name: 'University Free State Qwaqwa' },
+                    { name: 'UNISA Bloemfontein' },
+                ],
+                Colleges: [
+                    { name: 'Goldfields TVET Welkom Campus ' },
+                    { name: 'Goldfields TVET Tosa Campus' },
+                    { name: 'Maluti TVET Main' },
+                    { name: 'Maluti TVET Bethlehem' },
+                    { name: 'Motheo TVET Bloemfontein' },
+                    { name: 'Motheo TVET Zastron' },
+                    { name: 'Motheo TVET Thabanchu' },
+                    { name: 'Motheo TVET Koffiefontein' },
+                    { name: 'Motheo TVET Hillside' },
+                    { name: 'Motheo TVET Botshabelo' },
+                    { name: 'Motheo TVET Plot 32' },
+                    { name: 'Flavius Mareka TVET Sasolburg' },
+                    { name: '.Flavius Mareka TVET Kroonstad' },
+                    { name: 'Flavius Mareka TVET Mphohadi' },
+                    { name: 'Maluti TVET College Lere La Tshepe' },
+                    { name: 'Maluti TVET College Itemoheleng Campus' },
+                    { name: 'Maluti TVET College Harrismith Campus' },
+                    { name: 'Maluti TVET College Kwetlisong Campus' },
+                    { name: 'Maluti TVET College Bonamelo TVET' }
+                ] },
+            { name: 'Gauteng', universities: [
+                    { name: 'Wits' },
+                    { name: 'UJ Auckland Park' },
+                    { name: 'UJ APB (Bunting Road)' },
+                    { name: 'UJ Soweto' },
+                    { name: 'UJ Doorfontein' },
+                    { name: 'UNISA Johannesburg' },
+                    { name: 'TUT Main Campus' },
+                    { name: 'TUT Soshanguve' },
+                    { name: 'TUT Garankuwa' },
+                    { name: 'Sefako Makgatho University' },
+                    { name: 'UNISA Tshwane' },
+                    { name: 'University of Pretoria' },
+                    { name: 'UNISA Daveyton' },
+                    { name: 'Vaal University of Technology Daveyton' },
+                    { name: 'Vaal University of Technology Main Campus' },
+                    { name: 'North West University Vaal Triangle Campus' },
+                ], Colleges: [
+                    { name: 'Western College Randfontien' },
+                    { name: 'Western College Krugersdorp' },
+                    { name: 'Western College Krugersdorp West' },
+                    { name: 'Western College Thuba Makote(Magaliesburg)' },
+                    { name: 'Western College Westonaria' },
+                    { name: 'Sedibeng TVET Vereeniging' },
+                    { name: 'CJC Parktown' },
+                    { name: 'CJC Smit' },
+                    { name: 'Ekurhuleni West TVET College Germiston' },
+                    { name: 'Ekurhuleni East TVET College Daveyton' },
+                    { name: 'Tshwane North College south Campus' },
+                    { name: 'Western College Carltonville' },
+                    { name: 'CJC Ellispark' },
+                    { name: 'Ekurhuleni West TVET College Alberton' },
+                    { name: 'Ekurhuleni West TVET College Boksburg' },
+                    { name: 'Ekurhuleni West TVET College Germiston' },
+                    { name: 'Ekurhuleni West TVET College Tembisa' },
+                    { name: 'Ekurhuleni West TVET College Kempton Park' },
+                    { name: 'Ekurhuleni West TVET College Germiston' },
+                    { name: 'Ekurhuleni East TVET College Kwa-Thema' },
+                    { name: 'Ekurhuleni East TVET College Springs' },
+                    { name: 'Ekurhuleni East TVET College Brakpan' },
+                    { name: 'Ekurhuleni East TVET College Daveyton' },
+                    { name: '.Ekurhuleni East TVET College Benoni' },
+                    { name: 'South West Gauteng College Dobsonville' },
+                    { name: 'South West Gauteng College George Tabor Campus' },
+                    { name: 'South West Gauteng College Molapo' },
+                    { name: 'South West Gauteng College Rooderpoort' },
+                    { name: 'South West Gauteng Technisa(Ranburg) Campus' },
+                    { name: 'Tshwane North College- Tshwane Campus' },
+                    { name: 'Tshwane North College- Mamelodi Campus' },
+                    { name: 'Tshwane North College- Rosslyn Campus' },
+                    { name: 'Tshwane North CollegeSoshanguve South Campus' },
+                    { name: 'Tshwane North CollegeSoshanguve North Campus' },
+                    { name: 'Tshwane North College- Temba Campus' },
+                    { name: 'Tshwane South CollegeAttridgeville Campus' },
+                    { name: 'Tshwane North College- Centurion Campus' },
+                    { name: 'Tshwane North College-Pretoria West Campus' },
+                    { name: 'Tshwane North College- Odi Campus' }
+                ] },
+            { name: 'KwaZulu Natal', universities: [
+                    { name: 'DUT Steve Biko Campus' },
+                    { name: 'DUT Riverside Campus' },
+                    { name: 'DUT Indumiso Campus' },
+                    { name: 'DUT City Campus' },
+                    { name: 'DUT Ritson Campus' },
+                    { name: 'DUT Brickfield Campus' },
+                    { name: 'UNISA Durban' },
+                    { name: 'UKZN Pietermaritzburg' },
+                    { name: 'UKZN Edgewood' },
+                    { name: 'UKZN Howard' },
+                    { name: 'UKZN Westville' },
+                    { name: 'UKZN Medical School' },
+                    { name: 'UNIZULU Richards Bay Campus' },
+                    { name: 'UNIZULU Ongoye Campus' },
+                    { name: 'UNIZULU Kwadlangweza Campus' },
+                    { name: 'Mangosuthu University of Technology' },
+                ],
+                Colleges: [
+                    { name: 'Esayidi TVET College Enyenyezi ' },
+                    { name: 'Esayidi TVET College Gamalakhe' },
+                    { name: 'Esayidi TVET College Kokstad' },
+                    { name: 'Esayidi TVET College Umzimkhulu' },
+                    { name: 'Esayidi TVET College PortShepstore Campus' },
+                    { name: 'Majuba TVET College Dundee' },
+                    { name: 'Majuba TVET College Newcastle' },
+                    { name: 'Majuba TVET College Madadeni' },
+                    { name: 'Elangeni TVET College Inanda' },
+                    { name: 'Elangeni TVET College Kwadabeka' },
+                    { name: 'Elangeni TVET College KwaMashu Campus' },
+                    { name: 'Elangeni TVET College Ndwendwe Campus' },
+                    { name: 'Elangeni TVET College Ntuzuma Campus' },
+                    { name: '.Elangeni TVET College Pinetown Campus' },
+                    { name: 'Elangeni TVET College Qadi Campus' },
+                    { name: 'Mfolozi TVET College Chief Albert Luthuli' },
+                    { name: 'Mfolozi TVET College Richtek Campus' },
+                    { name: 'Mfolozi TVET College Jininindomiyama Campus' },
+                    { name: 'Mfolozi TVET College Isithebe Campus' },
+                    { name: 'Mfolozi TVET College Nseleni Campus' },
+                    { name: 'Mfolozi TVET College Esikawini Campus' },
+                    { name: 'Mfolozi TVET College Mandeni Campus' },
+                    { name: 'Mfolozi TVET College Eshowe Campus' }
+                ] },
+            { name: 'Limpopo', universities: [
+                    { name: 'University of Limpopo' },
+                    { name: 'TUT Polokwane' },
+                    { name: 'University of Venda' },
+                    { name: 'UNISA Polowane ' }
+                ], Colleges: [
+                    { name: 'Capricorn TVET Ramokgopa Campus' },
+                    { name: 'Capricorn TVET Seshego Campus' },
+                    { name: 'Capricon TVET Sinwabarawana Campus' },
+                    { name: 'Capricon TVET Polokwane Campus' },
+                    { name: 'Letaba TVET Giyani' },
+                    { name: 'Letaba TVET Tzaneen' },
+                    { name: 'Letaba TVET Maake' },
+                    { name: 'Mopani TVET Sir Val Duncan' },
+                    { name: 'Mopani TVET Phalaborwa' },
+                    { name: 'Sekhukhune TVET - CN Phathudi' },
+                    { name: 'Sekhukhune TVET – Apel Campus' },
+                    { name: 'Sekhukhune TVET – CS Barlow Campus' },
+                    { name: 'Vhembe TVET - Mashamba Campus' },
+                    { name: 'Vhembe TVET - Makwarela Campus' },
+                    { name: 'Vhembe TVET – Xhingwez' },
+                    { name: 'Vhembe TVET – Thengwe' },
+                    { name: 'Vhembe TVET - Tshisimani' },
+                    { name: 'Waterberg TVET College Lebowakgomo Campus' },
+                    { name: 'Waterberg TVET College Mokopane Campus' },
+                    { name: 'Waterberg TVET College Mahwelereng Campus' },
+                    { name: 'Lephalale TVET College Lephalale' },
+                    { name: 'Lephalale TVET College Modimolle Campus' }
+                ] },
+            { name: 'Mpumalanga', universities: [
+                    { name: 'TUT Mbombela' },
+                    { name: 'TUT Emalahleni' },
+                    { name: 'UNISA Mbombela' },
+                    { name: 'University of Mpumalanga' },
+                    { name: 'VUT Secunda' }
+                ], Colleges: [
+                    { name: 'Enhlanzeni TVET Mthimba Campus' },
+                    { name: 'Enhlanzeni TVET Nelspruit Campus' },
+                    { name: 'Enhlanzeni TVET Mapulaneng Campus' },
+                    { name: 'Enhlanzeni TVET Mlumati' },
+                    { name: 'Enhlanzeni TVET Barberton' },
+                    { name: 'Enhlanzeni TVET KaNyawazane' },
+                    { name: 'Nkangala TVET Mhlanga Campus' },
+                    { name: 'Gert Sibande TVET Ermelo Campus' },
+                    { name: 'Gert Sibande TVET Evander Campus' },
+                    { name: '.Gert Sibande TVET Sibanesetju Campus' },
+                    { name: 'Gert Sibande TVET Balfour Campus' },
+                    { name: 'Nkangala TVET Waterval Boven' },
+                    { name: 'Nkangala TVET Witbank' },
+                    { name: 'Nkangala TVET Middelburg' },
+                    { name: 'Nkangala TVET Mpondozankomo' },
+                    { name: 'Nkangala TVET CN Mahlangu' }
+                ] },
+            { name: 'North West', universities: [
+                    { name: 'North West University Mafikeng Campus' },
+                    { name: 'North West University Potcheefstroom Campus' },
+                    { name: 'UNISA Rustenburg' }
+                ], Colleges: [
+                    { name: 'Vuselela TVET Taung Campus' },
+                    { name: 'Vuselela TVET Jouberton Campus' },
+                    { name: 'Vuselela TVET Potcheefstroom Campus' },
+                    { name: 'Vuselela TVET Matlosana Campus' },
+                    { name: 'Taletso Lehurutse Campus' },
+                    { name: 'Taletso Mafikeng Campus' },
+                    { name: 'Taletso TVET Litchtenburg Campus' },
+                    { name: 'Orbit TVET College Rustenburg Campus' },
+                    { name: 'Orbit TVET College Mankwe Campus' },
+                    { name: 'Orbit TVET College Brits Campus' }
+                ] },
+            { name: 'Northern Capet', universities: [
+                    { name: 'Sol Plaatjie University ' }
+                ], Colleges: [
+                    { name: 'NC Rural TVET Khathu Campus' },
+                    { name: 'NC Rural TVET Upington Campus' },
+                    { name: 'NC Rural TVET Namaqualand Campus' },
+                    { name: 'NC Urban TVET City Campus' },
+                    { name: 'NC Urban TVET Moremogolo Campus' }
+                ] },
+            { name: 'Western Cape', universities: [
+                    { name: 'CPUT Cape Town' },
+                    { name: 'CPUT Bellville' },
+                    { name: 'CPUT Mowbray' },
+                    { name: 'CPUT Granger Bay' },
+                    { name: 'CPUT Wellington' },
+                    { name: 'CPUT Athlone' },
+                    { name: 'University of Cape Town' },
+                    { name: 'University of Western Cape' },
+                    { name: 'UNISA Parrow' },
+                    { name: 'Nelson Mandela University George' },
+                    { name: 'University of Stellenbosch' }
+                ], Colleges: [
+                    { name: 'Boland TVET College Caledon Campus' },
+                    { name: 'Boland TVET College Worcester Campus' },
+                    { name: 'Boland TVET College Paarl Campus' },
+                    { name: 'Boland TVET College Strand Campus' },
+                    { name: 'Boland TVET College Stellenbosch Campus' },
+                    { name: 'College of Cape Town City Campus' },
+                    { name: 'College of Cape Town Gugulethu Campus' },
+                    { name: 'College of Cape Town Crawford Campus' },
+                    { name: 'College of Cape Town Pinelands Campus' },
+                    { name: 'College of Cape Town Gardens Campus' },
+                    { name: 'College of Cape Town Athlone Campus' },
+                    { name: 'False Bay TVET Khayelitsha Campus' },
+                    { name: 'False Bay TVET Muizenburg Campus' },
+                    { name: 'False Bay TVET Westlake Campus' },
+                    { name: 'False Bay TVET Fishoek Campus' },
+                    { name: 'False Bay TVET Mitchells Plain Campus' },
+                    { name: 'Northlink TVET Protea Campus' },
+                    { name: 'Northlink TVET Tygerberg Campus' },
+                    { name: 'Northlink TVET Parrow Campus' },
+                    { name: 'Northlink TVET Bellvile Campus' },
+                    { name: 'Northlink TVET Goodwood Campus' },
+                    { name: 'Northlink TVET Wingfield Campus' },
+                    { name: 'West Coast TVET Malmesbury Campus' },
+                    { name: 'West Coast TVET Atlantis Campus' },
+                    { name: 'West Coast TVET Atlantis Campus' },
+                    { name: 'West Coast TVET Vredendal Campus' },
+                    { name: 'West Coast TVET Citrusdal Campus' },
+                    { name: 'South Cape College George Campus' },
+                    { name: 'South Cape College George Campus' },
+                    { name: 'South Cape College Oudsthoorn Campus' },
+                    { name: 'South Cape College Bitou Campus' },
+                    { name: 'South Cape College Mossel Bay Campus' },
+                    { name: 'South Cape College Beufort West Campus' },
+                    { name: 'South Cape College Hessequa Campus' }
+                ] }
+        ];
+    }
     getCities(province) {
         this.cities = this.provinces.find(x => x.name.includes(province.target.value)).cities;
+    }
+    getUniversities(province) {
+        debugger;
+        this.universities = [];
+        this.institution.reset();
+        if (!province.target.value) {
+            return;
+        }
+        if (this.institutionType.value.includes("University")) {
+            this.universities = this.studentProvices.find(x => x.name.includes(province.target.value)).universities;
+        }
+        else {
+            this.universities = this.studentProvices.find(x => x.name.includes(province.target.value)).Colleges;
+        }
     }
     handleAddressCordinates(addressObject) {
         this.form.patchValue({
